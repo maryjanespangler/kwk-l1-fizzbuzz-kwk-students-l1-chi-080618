@@ -1,10 +1,10 @@
 
 def fizzbuzz(number)
   if number % 3 == 0 && number % 5 == 0
-    return"FizzBuzz" 
+    "FizzBuzz" 
  elsif number % 3 == 0
-    return"Fizz"
+    "Fizz"
   elsif number % 5 == 0
-  return "Buzz"
+  "Buzz"
  end
 end
