@@ -9,4 +9,4 @@ def fizzbuzz(number)
  end
 end
 
-FizzBuzz ("87")
+fizzbuzz("87")
