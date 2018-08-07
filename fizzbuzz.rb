@@ -1,8 +1,8 @@
 def fizzbuzz(number)
   if number % 3==0
-    "Fizz" 
+    return"Fizz" 
  end
  elsif number % 5==0
-    "buzz"
+    return"buzz"
   else number 
 end
