@@ -8,3 +8,5 @@ def fizzbuzz(number)
   "Buzz"
  end
 end
+
+FizzBuzz ("87")
